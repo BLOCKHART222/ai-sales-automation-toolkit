@@ -1,0 +1,65 @@
+BRYAN LOCKHART
+AI Operations & Workflow Automation Leader
+
+PROFESSIONAL SUMMARY
+Operations and recruiting professional with 14 years of experience, now specializing in AI-driven workflow automation and operations optimization. Expert at translating business needs into intelligent automation solutions using modern AI agents, API integrations, and workflow platforms. Demonstrates unique blend of deep operations knowledge combined with hands-on ability to design, build, and implement AI-powered workflows. Proven track record building automation solutions that eliminate manual work, improve team efficiency, and scale operations. Comfortable with ambiguity and skilled at bridging business requirements with technical execution.
+
+CORE COMPETENCIES
+- AI Agents & Workflow Automation Design
+- API Integration & Third-Party Tool Management
+- AI/LLM Integration (OpenAI, Anthropic APIs)
+- Python Scripting for Operations Automation
+- Workflow Tools & Platforms (Zapier, Make, n8n)
+- Process Optimization & Documentation
+- Operational Metrics & Analytics
+- Business Process Automation (BPA)
+- Operations Technology Stack Management
+- Cross-Functional Stakeholder Management
+
+PROFESSIONAL EXPERIENCE
+
+AI OPERATIONS LEAD | TechVenture Inc. (Series B)
+Designed and implemented AI-driven automation solutions across operations, recruiting, and customer success. Built 15+ automated workflows using OpenAI APIs and workflow platforms, eliminating 200+ manual hours monthly. Integrated Apollo for recruiting intelligence, Saleshandy for email automation, and PhantomBuster for LinkedIn operations. Developed Python scripts to automate data processing and candidate validation. Created operational dashboards tracking automation ROI. Mentored team on AI capabilities and automation possibilities. Served as bridge between business requirements and technical implementation.
+
+SENIOR RECRUITING OPERATIONS STRATEGIST | TechVenture Inc.
+Owned recruiting operations and automation initiatives. Designed candidate pipeline workflows and metrics tracking systems. Implemented recruiting automation for candidate screening, follow-up communications, and reporting. Built integrations between Salesforce, ATS, and email platforms. Reduced manual recruiting admin time by 60% through automation. Partnered with recruiting team to identify automation opportunities across hiring funnel.
+
+OPERATIONS TRANSFORMATION SPECIALIST | DataFlow Systems (Self-Directed Project)
+Led self-initiated operations transformation using modern automation tools. Built 8+ operational workflows using Zapier and custom API integrations. Created automation for sales operations, customer onboarding, and finance processes. Developed operational dashboards and reporting systems. Demonstrated ROI and efficiency gains that informed company investment in operations automation.
+
+TECHNICAL RECRUITING OPERATIONS MANAGER | Enterprise HR Services
+Managed recruiting operations for technical hiring. Designed recruiting workflows and implemented automation where possible. Identified manual processes for automation improvement. Collaborated with technical teams on recruiting tools and integrations. Developed recruiting analytics dashboards using available tools.
+
+SENIOR RECRUITER & OPERATIONS CONTRIBUTOR | Previous Roles
+14 years of operations and recruiting experience providing deep understanding of business pain points, workflow challenges, and automation opportunities. Experience managing complex processes, stakeholder relationships, and large-scale initiatives.
+
+KEY ACHIEVEMENTS
+- Designed and built 15+ AI-powered workflows eliminating 200+ monthly manual hours
+- Integrated AI/LLM APIs (OpenAI, Anthropic) for intelligent operations automation
+- Reduced recruiting admin time by 60% through workflow automation and tool integration
+- Built operational dashboards tracking automation impact and ROI
+- Managed complex API integrations across 5+ platforms and tools
+- Trained operations team on AI capabilities and automation possibilities
+- Translated business requirements into technical automation solutions
+
+TECHNICAL SKILLS
+- Python: Scripting, automation, data processing, basic API development
+- AI/LLM APIs: OpenAI, Anthropic, API integration patterns
+- Workflow Automation: Zapier, Make, n8n, custom workflows
+- Sales & Operations Tools: Apollo, Saleshandy, PhantomBuster, HubSpot, Salesforce
+- Data & Analytics: Google Sheets, Looker, basic SQL understanding
+- Integration Platforms: REST APIs, webhooks, API authentication
+- Cloud Tools: Google Cloud basics, Azure basics, cloud-based automation
+- Documentation: Process documentation, runbooks, standard operating procedures
+
+AUTOMATION FRAMEWORK APPROACH
+Systematic approach to automation: identify high-volume manual processes, understand workflow requirements, evaluate tool options, design efficient solution, implement with minimal disruption, track and optimize. Believes in documenting automation workflows and building team understanding of how systems work. Comfortable learning new tools and platforms quickly. Data-driven mindset around automation ROI and impact measurement.
+
+UNIQUE VALUE PROPOSITION
+Rare combination of deep operations knowledge (14 years) with hands-on ability to build AI solutions. Understands both business pain points and technical execution. Fluent in operations language and business requirements, but also comfortable with APIs, Python, and modern automation tools. Perfect bridge between operations teams and technical implementation.
+
+EDUCATION
+Bachelor of Science in Business Administration | University of Colorado
+
+CONTINUOUS LEARNING
+Active in AI operations community. Regular practice with OpenAI, Anthropic, and other AI tools. Building portfolio of automation solutions and case studies on GitHub. Focused on advancing skills in Python, AI integration, and workflow automation design.
