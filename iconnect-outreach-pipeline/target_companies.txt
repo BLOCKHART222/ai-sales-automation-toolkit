@@ -1,0 +1,32 @@
+# iConnect Sports — Target Companies
+# Format: Company Name, domain.com
+# Lines starting with # are comments
+#
+# Add new companies here and run: python iconnect_pipeline.py daily
+# Or search ad-hoc: python iconnect_pipeline.py run "Company Name"
+
+# ── Betting / Sports ──
+FanDuel, fanduel.com
+DraftKings, draftkings.com
+Novig, novig.co
+
+# ── Insurance / Financial ──
+State Farm, statefarm.com
+Progressive, progressive.com
+GEICO, geico.com
+
+# ── Tech / E-Commerce ──
+Mercari, mercari.com
+SHEIN, shein.com
+
+# ── Collectibles ──
+Collectable, collectable.com
+
+# ── Streaming ──
+Netflix, netflix.com
+
+# ── Crypto ──
+Kraken, kraken.com
+
+# ── Social / Big Tech ──
+TikTok, tiktok.com

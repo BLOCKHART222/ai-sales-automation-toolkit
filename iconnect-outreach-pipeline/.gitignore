@@ -1,0 +1,26 @@
+# API keys and secrets
+.env
+
+# Lead data (contains PII)
+iconnect_leads.csv
+phantombuster_linkedin_upload.csv
+enriched_*.csv
+*.log
+
+# Daily logs (optional — remove this line to track logs in git)
+iconnect_daily_log_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
